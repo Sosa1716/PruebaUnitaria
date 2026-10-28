@@ -1,7 +1,5 @@
 # Pruebas unitarias con JavaScript y GitHub Actions
 
-Ejemplo para la **Unidad II: Tipos de Pruebas**.
-
 ## Objetivo
 
 Probar individualmente una función que calcula el importe de un platillo a partir del precio y la cantidad. Automatizar su ejecución mediante GitHub Actions.
